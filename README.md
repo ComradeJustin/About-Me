@@ -1,2 +1,3 @@
-# About-Me
-Read the title idiot
+
+###Infomation
+-I make funny apps when im bored
